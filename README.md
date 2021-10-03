@@ -1,4 +1,4 @@
-### Hi there, y name is [Alan][website] 👋
+### Hi there, my name is [Alan][website] 👋
 
 ## I'm a Computer Engineering student at CUCEI
 - 🌱 I’m currently trying to get certified in the most popular Cloud Computing Technologies

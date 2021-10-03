@@ -1,8 +1,7 @@
 ### Hi there, my name is [Alan][website] 👋
 
-## I'm a Computer Engineering student at CUCEI
+## I'm a Computer Engineering student at CUCEI, and I'm certified as an AWS Cloud Practitioner
 - 🌱 I’m currently trying to get certified in the most popular Cloud Computing Technologies
-- 
 
 ### Connect with me:
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

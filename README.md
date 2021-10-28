@@ -2,6 +2,7 @@
 
 ## I'm a Computer Engineering student at CUCEI
 - 🌱 I’m currently trying to get certified in the most popular Cloud Computing Technologies
+- 💥 Achieved the Azure Fundamentals Certification, 27-10-21
 - 🔥 Achieved the AWS Associate Developer Certification, 13-10-21
 - ⚡ Achieved the AWS Cloud Practitioner Certification, 06-09-21
 

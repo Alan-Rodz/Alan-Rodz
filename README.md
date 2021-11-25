@@ -2,7 +2,7 @@
 
 ## I'm a Computer Engineering student at CUCEI
 - 🌱 I’m currently trying to get certified in the most popular Cloud Computing Technologies
-- 🧨 Achieved the Google Cloud Certified Cloud Digital Leader Certification, 24-11-21
+- ⭐ Achieved the Google Cloud Certified Cloud Digital Leader Certification, 24-11-21
 - 💥 Achieved the Azure Fundamentals Certification, 27-10-21
 - 🔥 Achieved the AWS Associate Developer Certification, 13-10-21
 - ⚡ Achieved the AWS Cloud Practitioner Certification, 06-09-21
@@ -14,6 +14,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
+<img align="left" alt="GCP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gcp/gcp.png" />
 <img align="left" alt="Microsoft Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

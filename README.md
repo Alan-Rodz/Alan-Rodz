@@ -1,6 +1,6 @@
 ### Hi there, my name is [Alan][website] 👋
 
-## I'm a Computer Engineering student at CUCEI
+## I'm a Developer!
 - 💣 Achieved the Terraform Associate Certification, 29-11-21
 - ⭐ Achieved the Google Cloud Certified Cloud Digital Leader Certification, 24-11-21
 - 💥 Achieved the Azure Fundamentals Certification, 27-10-21

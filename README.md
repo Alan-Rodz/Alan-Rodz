@@ -1,12 +1,5 @@
 ### Hi there, my name is [Alan][website] 👋
 
-## I'm a Software Developer!
-- 💣 Achieved the Terraform Associate Certification, 29-11-21
-- ⭐ Achieved the Google Cloud Certified Cloud Digital Leader Certification, 24-11-21
-- 💥 Achieved the Azure Fundamentals Certification, 27-10-21
-- 🔥 Achieved the AWS Associate Developer Certification, 13-10-21
-- ⚡ Achieved the AWS Cloud Practitioner Certification, 06-09-21
-
 ### Connect with me:
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
